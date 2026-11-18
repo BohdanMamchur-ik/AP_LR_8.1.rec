@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\My docs\НУЛП\АП\AP_LR_8.1.rec\AP_LR_8.1.rec\AP_LR_8.1.rec.cpp(60,13): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/UnitTest1.cpp')
+  
